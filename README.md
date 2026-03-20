@@ -56,7 +56,7 @@ I discovered Customer Service Calls, International Plan, and Total Day Charge to
 
 - If a customer's daily charge exceeds $48, there is an overwhelming probability that they will leave.
 
-#### *For more in-depth visualizations, explore: ['churn_eda'](https://github.com/clivekinyanjui/Telecom-Customer-Retention/blob/main/Notebook/churn_eda.ipynb) notebook.*
+#### *For more in-depth visualizations, explore: ['churn_eda'](https://github.com/clivekinyanjui/Telecom-Customer-Retention/blob/main/Notebooks/churn_eda.ipynb) notebook.*
 # **Modeling**
 
 I implemented a Logistic Regression model, chosen for its high interpretability and efficiency. To address the inherent class imbalance (more customers stay than leave), I refined the baseline through:
