@@ -82,6 +82,7 @@ The model was evaluated based on its ability to support a proactive business str
 
 - The refined model (Blue) successfully captures the vast majority of churners compared to the conservative baseline (Orange), aligning with our "Business-First" goal of high sensitivity.
 
+#### *Explore ['churn_model'](https://github.com/clivekinyanjui/Telecom-Customer-Retention/blob/main/Notebook/churn_model.ipynb) for a comprehensive view of the modeling process.*
 # **Insights**
 ## Key Drivers of Churn:
 
@@ -96,7 +97,7 @@ The model was evaluated based on its ability to support a proactive business str
 - **Voice mail Plan** Users with this plan stay loyal. New customers should be incentivised to set up voice mail.
 
 # **Conclusion**
-- The Refined Model is the recommended solution for the retention team.
+- *The Refined Model prioritizes recall(82%) and is able to identify high-risk customers with an international plan and frequent customer service callers early. This allows the stakeholders to move from losing 75 customers silently to securing 80 high-risk customers through targeted interventions.*
 
 # **Final Recommendation:**
 Implement a High-Touch Retention Protocol for any customer flagged by the model, specifically targeting those with International Plans who have called Customer Service more than twice.
