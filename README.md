@@ -82,7 +82,7 @@ The model was evaluated based on its ability to support a proactive business str
 
 - The refined model (Blue) successfully captures the vast majority of churners compared to the conservative baseline (Orange), aligning with our "Business-First" goal of high sensitivity.
 
-#### *Explore ['churn_model'](https://github.com/clivekinyanjui/Telecom-Customer-Retention/blob/main/Notebook/churn_model.ipynb) for a comprehensive view of the modeling process.*
+#### *Explore ['churn_model'](https://github.com/clivekinyanjui/Telecom-Customer-Retention/blob/main/Notebooks/churn_model.ipynb) for a comprehensive view of the modeling process.*
 # **Insights**
 ## Key Drivers of Churn:
 
