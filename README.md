@@ -73,12 +73,12 @@ I implemented a Logistic Regression model, chosen for its high interpretability 
 The model was evaluated based on its ability to support a proactive business strategy.
 ## Metrics Justification
 
-|  Metric |  Baseline Model |  Refined Model | Business Impact |
+|  **Metric** |  **Baseline Model** |  **Refined Model** | **Business Impact** |
 | :--- | :--- | :--- | :--- |
-| Recall | 0.2268 | 0.82447 | We catch 4x more potential churners. |
-| Precision | 0.5366 | 0.2878 | Acceptable trade-off for higher safety |
-| AUC Score| 0.8171 | 0.8161 | Stable predictive power. |
-| False Negatives | 75 | 17 | 58 additional customers 'saved.' |
+| **Recall** | 0.2268 | **0.82447** | We catch 4x more potential churners. |
+| **Precision** | 0.5366 | 0.2878 | Acceptable trade-off for higher safety |
+| **AUC Score**| 0.8171 | 0.8161 | Stable predictive power. |
+| **False Negatives** | 75 | **17** | 58 additional customers 'saved.' |
 
 ## Visual Justification:
 ![alt text](Images/image2.png)
