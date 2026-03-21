@@ -34,7 +34,7 @@ The analysis utilizes customer activity data, including:
  | Class | Count | Percentage |
 | :--- | :--- | :--- |
 | Stayed (0) | 2,850 | ~85.5% |
-| Left (1) | 483 | ~14.5% |
+| Churn (Left (1)) | 483 | ~14.5% |
 - Majority of the customers stayed while only a small percentage left.
 - For this reason, Recall and AUC-ROC are preffered metrics of model evaluation over Accuracy.
 
