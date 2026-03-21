@@ -7,7 +7,7 @@ Leveraging raw telecom data to identify churn drivers and predict customer reten
 This project develops a predictive machine learning model to identify at-risk customers for a telecommunications company in its first year of operation. By shifting from a reactive to a proactive retention strategy, this model provides the business with a tool to intervene before customers disconnect, directly impacting long-term revenue and market share.
 
 
-# **Business and Data Understanding**
+# **Business and Data**
 ## Business Problem
 A relatively new telecom company would like to identify potential 'churners' (Customers before they leave) and take the necessary steps to retain them.
 
@@ -19,7 +19,7 @@ A relatively new telecom company would like to identify potential 'churners' (Cu
 **Business Logic:** The cost of retention (e.g., a targeted discount) is significantly lower than the Customer Acquisition Cost. We prioritize Recall to ensure we don't miss potential leavers.
 
 ## Dataset Choice
-The analysis utilizes customer activity data, including:
+The model is trained on customer activity data, including:
 
 - **Demographics:** Account length and geographic location (State/Area Code).
 
@@ -94,7 +94,7 @@ The model was evaluated based on its ability to support a proactive business str
 
 - **Total Day Charge:** High daily spend acts as a financial trigger for churn.
 
-- **Voice mail Plan** Users with this plan stay loyal. New customers should be incentivised to set up voice mail.
+- **Voicemail Plan** Users with this plan stay loyal. New customers should be incentivised to set up voicemail.
 
 # **Conclusion**
 - *The Refined Model prioritizes recall(82%) and is able to identify high-risk customers with an international plan and frequent customer service callers early. This allows the stakeholders to move from losing 75 customers silently to securing 80 high-risk customers through targeted interventions.*
