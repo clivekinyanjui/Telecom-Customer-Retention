@@ -1,5 +1,5 @@
 # **Customer Churn Prediction: Strategic Retention for SyriaTel Company**
-Leveraging raw telecom data to identify churn drivers and predict customer retention using Logistic Regression. A data-driven approach to understanding and improving customer lifecycle management.
+Leveraging raw telecom data to identify churn drivers and predict customer churn using Logistic Regression. A data-driven approach to understanding and improving customer lifecycle management.
 
 # **Overview**
 ![alt text](Images/image1.png)
@@ -105,4 +105,4 @@ The model was evaluated based on its ability to support a proactive business str
 # **Final Recommendation:**
 Implement a High-Touch Retention Protocol for any customer flagged by the model, specifically targeting those with International Plans who have called Customer Service more than twice.
 
-*You may view my presentation of the model [here](https://github.com/clivekinyanjui/Telecom-Customer-Retention/blob/main/Presentations/churn_presentation.pdf).*
+*You may view my presentation of the model here: [presentation slides](https://github.com/clivekinyanjui/Telecom-Customer-Retention/blob/main/Presentations/churn_presentation.pdf), [video](https://drive.google.com/file/d/1heYZQN4hMkE1sZGscRFqZEEOQGuuEuPi/view?usp=sharing).*
