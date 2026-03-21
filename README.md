@@ -105,4 +105,4 @@ The model was evaluated based on its ability to support a proactive business str
 # **Final Recommendation:**
 Implement a High-Touch Retention Protocol for any customer flagged by the model, specifically targeting those with International Plans who have called Customer Service more than twice.
 
-*You may view my presentation of the model [here](https://github.com/clivekinyanjui/Telecom-Customer-Retention/blob/main/Presentations/churn_presentation.pdf).
+*You may view my presentation of the model [here](https://github.com/clivekinyanjui/Telecom-Customer-Retention/blob/main/Presentations/churn_presentation.pdf).*
