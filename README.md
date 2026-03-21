@@ -1,4 +1,4 @@
-# **Customer Churn Prediction: Strategic Retention for Telecom Company**
+# **Customer Churn Prediction: Strategic Retention for SyriaTel Telecom Company**
 Leveraging raw telecom data to identify churn drivers and predict customer retention using Logistic Regression. A data-driven approach to understanding and improving customer lifecycle management.
 
 # **Overview**
@@ -9,7 +9,7 @@ This project develops a predictive machine learning model to identify at-risk cu
 
 # **Business and Data**
 ## Business Problem
-A relatively new telecom company would like to identify potential 'churners' (Customers before they leave) and take the necessary steps to retain them.
+SyriaTel telecom company would like to identify potential 'churners' (Customers before they leave) and take the necessary steps to retain them.
 
 ## Stakeholder Audience
 **Primary:**  Executive Leadership and Marketing (Retention) Team.
