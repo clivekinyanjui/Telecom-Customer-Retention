@@ -20,6 +20,8 @@ A relatively new telecom company would like to identify potential 'churners' (Cu
 
 ## Data
 - The dataset used in this project can be accessed [here.](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)
+
+  
 The model is trained on customer activity data, including:
 
 - **Demographics:** Account length and geographic location (State/Area Code).
