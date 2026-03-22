@@ -4,7 +4,7 @@ Leveraging raw telecom data to identify churn drivers and predict customer churn
 # **Overview**
 ![alt text](Images/image1.png)
 
-This project develops a predictive machine learning model to identify at-risk customers for a telecommunications company in its first year of operation. By shifting from a reactive to a proactive retention strategy, this model provides the business with a tool to intervene before customers disconnect, directly impacting long-term revenue and market share.
+This project aims at developing a predictive machine learning model that identifies 'potential churners' customers for Syria Tel Company. Instead of waiting for customers to leave, the business can use this tool to take action early, directly impacting long-term revenue and market share.
 
 
 # **Business and Data**
