@@ -79,6 +79,7 @@ The model was evaluated based on its ability to support a proactive business str
 | **Precision** | 0.5366 | 0.2878 | Acceptable trade-off for higher safety |
 | **AUC Score**| 0.8171 | 0.8161 | Stable predictive power. |
 | **False Negatives** | 75 | **17** | 58 additional customers 'saved.' |
+| **RMSE** | 2.74 | 1.53 | Refined model is suitable for prediction |
 
 ## Visual Justification:
 ![alt text](Images/image2.png)
