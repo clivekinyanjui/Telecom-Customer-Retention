@@ -107,5 +107,6 @@ Implement a High-Touch Retention Protocol for any customer flagged by the model,
 
 *You may view a presentation of the model here: [presentation slides](https://github.com/clivekinyanjui/Telecom-Customer-Retention/blob/main/Presentations/churn_presentation.pdf), [video](https://drive.google.com/file/d/17ZZyNfQDPaOG8SEMdihuNsVLDDdbcaZO/view?usp=sharing).*
 
-[My Email](clivekinyanjui@gmail.com)
-[My LinkedIn Profile](www.linkedin.com/in/clive-kinyanjui)
+[My Email](clivekinyanjui@gmail.com).
+
+[My LinkedIn Profile](www.linkedin.com/in/clive-kinyanjui).
